@@ -1,2 +1,3 @@
 # Final-Project
-Final Project for Data Bootcamp
+Prediction of the salary of workers who work for NYC
+Group members: Winnie Yang and Sophie Dang
